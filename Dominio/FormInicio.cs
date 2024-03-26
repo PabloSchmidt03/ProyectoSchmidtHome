@@ -16,5 +16,10 @@ namespace Dominio
         {
             InitializeComponent();
         }
+
+        private void frmInicio_Load(object sender, EventArgs e)
+        {
+            MessageBox.Show("Bienvenido al gestor de stock de Schmidt Home");
+        }
     }
 }
