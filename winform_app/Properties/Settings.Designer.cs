@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Dominio.Properties
+namespace winform_app.Properties
 {
 
 

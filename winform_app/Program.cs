@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Dominio
+namespace winform_app
 {
     internal static class Program
     {

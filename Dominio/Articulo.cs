@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Dominio
+namespace dominio
 {
-    internal class Articulo
+    public class Articulo
     {
         public int Codigo { get; set; }
         public string Nombre { get; set; }
@@ -16,6 +16,6 @@ namespace Dominio
         public Categoria Categoria  { get; set; }
 
         //se trabaja con el atributo "color", pero en la base de datos se toma en cuenta como "marca", con el fin de no modificar la db
-        public Color color { get; set; }
+        public Color Color { get; set; }
     }                                      
 }

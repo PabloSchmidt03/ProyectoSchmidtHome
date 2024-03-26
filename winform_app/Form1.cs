@@ -8,18 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Dominio
+namespace winform_app
 {
     public partial class frmInicio : Form
     {
         public frmInicio()
         {
             InitializeComponent();
-        }
-
-        private void frmInicio_Load(object sender, EventArgs e)
-        {
-            MessageBox.Show("Bienvenido al gestor de stock de Schmidt Home");
         }
     }
 }
