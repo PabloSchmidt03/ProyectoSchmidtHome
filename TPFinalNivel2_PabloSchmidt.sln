@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{CEA95838-9214-40E1-A6A1-3D1D2E2F56C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEA95838-9214-40E1-A6A1-3D1D2E2F56C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA95838-9214-40E1-A6A1-3D1D2E2F56C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA95838-9214-40E1-A6A1-3D1D2E2F56C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA95838-9214-40E1-A6A1-3D1D2E2F56C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A48692E-4361-4168-9061-60735D34AA95}
+	EndGlobalSection
+EndGlobal
