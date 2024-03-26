@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winform_app", "winform_app\winform_app.csproj", "{CDCFE09C-C65E-419F-9538-81A80EB04AA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{176F189B-17DD-4133-B280-30D783441A1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "accesoDatos", "accesoDatos\accesoDatos.csproj", "{8F481126-0CA8-40F8-B9A8-19E214589502}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{CDCFE09C-C65E-419F-9538-81A80EB04AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDCFE09C-C65E-419F-9538-81A80EB04AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDCFE09C-C65E-419F-9538-81A80EB04AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{176F189B-17DD-4133-B280-30D783441A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176F189B-17DD-4133-B280-30D783441A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176F189B-17DD-4133-B280-30D783441A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176F189B-17DD-4133-B280-30D783441A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F481126-0CA8-40F8-B9A8-19E214589502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F481126-0CA8-40F8-B9A8-19E214589502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F481126-0CA8-40F8-B9A8-19E214589502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F481126-0CA8-40F8-B9A8-19E214589502}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
